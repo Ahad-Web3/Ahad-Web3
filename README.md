@@ -23,7 +23,6 @@
 
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahad4387&layout=compact"></img>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahad4387&" alt="ahad4387" style="max-width:300px;width:50%"/></p>
-<a href="https://github.com/ahad4387">
+<p align="left">&nbsp;<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=ahad4387&" alt="ahad4387" style="width:47%;padding-top:20px;padding"/>
 </p>
+<a href="https://github.com/ahad4387">
