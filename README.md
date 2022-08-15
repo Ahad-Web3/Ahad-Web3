@@ -2,7 +2,6 @@
 ## I'm a Developer in making!!
 
 - 🌱 I’m currently learning HTML, CSS, JS.
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn MERN Stack and Solidity
 - ⚡ Fun fact: I love to solve cube
 
