@@ -19,3 +19,7 @@
     <img src="https://img.icons8.com/fluency/30/000000/instagram-new.png"/>
   </a>
 </p>
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ahad4387&show_icons=true&theme=radical"></img>
+
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahad4387&layout=compact"></img>
