@@ -26,3 +26,8 @@
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahad4387&" alt="ahad4387" style="width:47%;"/><a href="https://github.com/ahad4387">
+
+
+### This week I spent my time on 
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ahad4387&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
