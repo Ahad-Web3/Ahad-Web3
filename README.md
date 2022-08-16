@@ -25,7 +25,7 @@
 
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahad4387&" alt="ahad4387" style="width:47%;"/><a href="https://github.com/ahad4387">
+<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ahad4387&ring=4F94EF&fire=4F94EF&currStreakLabel=4F94EF" alt="ahad4387" style="width:47%;"/><a href="https://github.com/ahad4387">
 
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This week I spent my time on 
