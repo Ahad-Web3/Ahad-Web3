@@ -35,3 +35,7 @@
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ahad4387&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ahad4387">
+</a>
