@@ -29,13 +29,21 @@
 
 
 
-<a>&nbsp; &nbsp; **This week I spent my time on** </a>
+<!--- <a>&nbsp; &nbsp; **This week I spent my time on** </a> ---> 
 
-<img align="left" width="47%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ahad4387&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777"></img>
+<a  href="">
+    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahad4387&hide=other&hide_title=true">
+</a>
+
+<!---  <img align="left" width="47%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ahad4387&hide_title=true&langs_count=5&bg_color=00000000&text_color=777"></img> ---> 
+
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ahad4387&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="">
     <img src="https://komarev.com/ghpvc/?username=ahad4387">
 </a>
+
+
+
