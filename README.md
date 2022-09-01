@@ -1,5 +1,5 @@
-# Hi there, I'm Ahad 👋 
-## I'm a Developer in making!!
+# Hi there, I'm Ahad 👋 | Front End Developer 
+
 
 - 🌱 I’m currently learning HTML, CSS, JS.
 - 🥅 2022 Goals: Learn MERN Stack and Solidity
