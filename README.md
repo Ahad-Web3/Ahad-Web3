@@ -16,7 +16,7 @@
 <img width = "47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad-Web3&layout=compact">
 <img width = "47%" src="http://github-readme-streak-stats.herokuapp.com?user=Ahad-Web3&ring=4F94EF&fire=4F94EF&currStreakLabel=4F94EF"> 
 <img width = "47%" align="left" src="https://github-readme-stats.vercel.app/api?username=Ahad-Web3&show_icons=true&locale=en">
-<img width = "47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ahad-Web3&hide=other&hide_title=true">
+<img width = "47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahad4387&hide=other&hide_title=true">
 <img src="https://activity-graph.herokuapp.com/graph?username=Ahad-Web3&theme=minimal">
 
 
