@@ -8,8 +8,8 @@
 
 ### Connect with me:
 <p align="left">
-  <a href= "https://www.linkedin.com/in/ahad-web3-dev/"><img src="https://img.icons8.com/color/30/000000/linkedin-circled--v1.png"></a>
-  <a href= "https://twitter.com/Maak84681067"><img src="https://img.icons8.com/color/30/000000/twitter--v1.png"></a>
+  <a href= "https://www.linkedin.com/in/ahad-web3/"><img src="https://img.icons8.com/color/30/000000/linkedin-circled--v1.png"></a>
+  <a href= "https://twitter.com/Ahad-Web3"><img src="https://img.icons8.com/color/30/000000/twitter--v1.png"></a>
   <a href="https://www.instagram.com/web3.developer/"><img src="https://img.icons8.com/fluency/30/000000/instagram-new.png"></a>
 </p>
 
