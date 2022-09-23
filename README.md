@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently bulding projects on HTML, CSS, JS.
 - 🥅 2022 Goals: Learn MERN Stack and Solidity
+- ⚡ Currently i'm looking for junior Smart Contract Developer Role.
 - ⚡ Fun fact: I love to solve cube
 
 
