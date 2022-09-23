@@ -20,7 +20,4 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=Ahad-Web3&theme=minimal">
 
 
-<a href=""><img src="https://komarev.com/ghpvc/?username=Ahad-Web3"></a>
-
-
 
