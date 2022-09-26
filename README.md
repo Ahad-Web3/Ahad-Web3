@@ -21,6 +21,7 @@
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="golang" height="45"></td>
         <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" alt="android" height="45"></td>
         <td><img src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.svg" alt="golang" height="45"></td>
+        <td><img src="https://img.icons8.com/color/48/000000/git.png"/></td>
     </tr>
 </table>
 
