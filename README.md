@@ -37,7 +37,7 @@
         <td><img width = "100%" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahad4387&hide=other&hide_title=true&hide_background=true"></td>
     </tr>
 </table>
-<img src="https://activity-graph.herokuapp.com/graph?username=Ahad-Web3&theme=minimal">
+<img src="https://activity-graph.herokuapp.com/graph?username=AhadWeb3&theme=minimal">
           
 <!--
 <img width = "47%" align="left" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhadWeb3&layout=compact">
