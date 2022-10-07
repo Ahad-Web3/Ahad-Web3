@@ -1,6 +1,6 @@
 # Hi there, I'm Ahad 👋 | Front End Developer 
 
-- ⚡ Currently I'm looking for Front End Projects.
+- ⚡ Currently I'm looking for Front End Development Gigs.
 - 🌱 I’m currently bulding projects on HTML, CSS, JS.
 - 🥅 2022 Goals: Learn MERN Stack and Solidity
 - ⚡ Fun fact: I love to solve cube
