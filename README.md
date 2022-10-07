@@ -12,7 +12,7 @@
   <a target="_blank" href="https://www.instagram.com/AhadWeb3/"><img src="https://img.icons8.com/fluency/30/000000/instagram-new.png" height="45"></a>
 </p>
 
-### Languages and Tools
+### Languages and Tools:
 <table>
    <tr>
         <td><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" height="45"></td>
@@ -25,24 +25,15 @@
     </tr>
 </table>
 
-### Stats
+### Stats:
 
-<table>
-   <tr>
-        <td><img width = "100%" align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhadWeb3&layout=compact"></td>
-        <td><img width = "100%" height="200" src="http://github-readme-streak-stats.herokuapp.com?user=AhadWeb3&ring=4F94EF&fire=4F94EF&currStreakLabel=4F94EF"></td>
-    </tr>
-    <tr>
-        <td><img width = "100%" height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=AhadWeb3&show_icons=true&locale=en"></td>
-        <td><img width = "100%" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahad4387&hide=other&hide_title=true&hide_background=true"></td>
-    </tr>
-</table>
-<img src="https://activity-graph.herokuapp.com/graph?username=AhadWeb3&theme=minimal">
-          
-<!--
 <img width = "47%" align="left" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhadWeb3&layout=compact">
 <img width = "47%" height="200" src="http://github-readme-streak-stats.herokuapp.com?user=AhadWeb3&ring=4F94EF&fire=4F94EF&currStreakLabel=4F94EF"> 
 <img width = "47%" height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=AhadWeb3&show_icons=true&locale=en">
-<img width = "47%" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahad4387&hide=other&hide_title=true">
--->
+<img width = "47%" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahad4387&hide=other&hide_title=">
+
+
+<img src="https://activity-graph.herokuapp.com/graph?username=AhadWeb3&theme=minimal">
+          
+
 
