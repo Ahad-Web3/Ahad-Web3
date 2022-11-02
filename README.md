@@ -1,7 +1,7 @@
 # Hi there, I'm Ahad 👋 | Front End Developer 
 
 - ⚡ Currently I'm looking for Front End Development Gigs.
-- 🌱 I’m currently bulding projects on HTML, CSS, JS.
+- 🌱 I’m currently bulding projects on React JS, Next JS.
 - 🥅 2022 Goals: Learn MERN Stack and Solidity
 - ⚡ Fun fact: I love to solve cube
 
@@ -15,9 +15,10 @@
 ### Languages and Tools:
 <table>
    <tr>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="python" height="45"></td>
+        <td><img src="https://img.icons8.com/fluency/48/40C057/tailwind_css.png" alt="tailwind" height="45"></td>        
         <td><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" height="45"></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="golang" height="45"></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="python" height="45"></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="golang" height="45"></td>
         <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" alt="android" height="45"></td>
         <td><img src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.svg" alt="golang" height="45"></td>
