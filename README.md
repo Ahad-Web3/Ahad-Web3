@@ -1,4 +1,4 @@
-# Hi there, I'm Ahad 👋 | Front End Developer 
+# Hi there, I'm Ahad 👋 | Full Stack Blockchain Developer 
 
 - ⚡ Currently I'm looking for Front End Development Gigs.
 - 🌱 I’m currently bulding projects on React JS, Next JS.
