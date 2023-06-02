@@ -1,8 +1,6 @@
-# Hi there, I'm Ahad 👋 | Front End Developer 
+# Hi there, I'm Ahad 👋 | Front End, Webflow Developer 
 
-- ⚡ Currently I'm looking for Front End Development Gigs.
-- 🌱 I’m currently bulding projects on React JS, Next JS.
-- 🥅 2022 Goals: Learn MERN Stack and Solidity
+- ⚡ Currently I'm looking for Front End, Webflow Development Gigs.
 - ⚡ Fun fact: I love to solve cube
 
 ### Connect with me:
