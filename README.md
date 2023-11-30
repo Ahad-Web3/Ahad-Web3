@@ -1,6 +1,5 @@
 # Hi there, I'm Ahad 👋 | Front End, Webflow Developer 
 
-- ⚡ Currently I'm looking for Front End, Webflow Development Gigs.
 - ⚡ Fun fact: I love to solve cube
 
 ### Connect with me:
