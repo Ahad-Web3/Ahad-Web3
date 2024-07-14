@@ -1,4 +1,4 @@
-# Hi there, I'm Ahad 👋 | Front End, Webflow Developer 
+# Hi there, I'm Abdul Ahad 👋 | Front End, Webflow Developer
 
 - ⚡ Fun fact: I love to solve cube
 
